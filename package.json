@@ -1,0 +1,21 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "just start writing...",
+  "scripts": {
+    "start": "docute ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hugomd@github.com/hugomd/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugomd/docs/issues"
+  },
+  "homepage": "https://github.com/hugomd/docs#readme",
+  "dependencies": {
+    "docute-cli": "^0.5.0"
+  }
+}

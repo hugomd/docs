@@ -1,5 +1,6 @@
 ---
 title: Javascript
+search: english
 ---
 
 # JavaScript
